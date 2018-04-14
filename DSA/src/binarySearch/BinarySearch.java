@@ -1,4 +1,4 @@
-package binarySearcj;
+package binarySearch;
 
 import java.util.Arrays;
 import java.util.Scanner;

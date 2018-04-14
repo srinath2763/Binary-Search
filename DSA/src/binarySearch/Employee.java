@@ -1,4 +1,4 @@
-package binarySearcj;
+package binarySearch;
 
 public class Employee implements Comparable<Employee>{
 
